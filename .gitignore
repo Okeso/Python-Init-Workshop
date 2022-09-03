@@ -2,3 +2,5 @@
 */rootfs/
 firecracker
 release-*/
+*.orig
+*.bin
